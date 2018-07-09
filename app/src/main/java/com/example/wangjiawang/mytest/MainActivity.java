@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         Log.d("TAG","在release中做了一些修改");
+        Log.d("TAG","加点补丁");
     }
 
     @Override
