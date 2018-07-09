@@ -27,7 +27,6 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-        Log.d("TAG","F_feature_2分支");
     }
 
     @Override
