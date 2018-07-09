@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+        Log.d("TAG","在release中做了一些修改");
     }
 
     @Override
